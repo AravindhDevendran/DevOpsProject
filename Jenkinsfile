@@ -75,3 +75,4 @@ registry = "aravindhdeva5/devopsproj2"
             }
  }
 }
+}
